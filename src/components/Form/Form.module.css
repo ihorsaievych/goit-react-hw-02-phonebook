@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.label {
+  display: flex;
+  gap: 5px;
+}
+.btn {
+  padding: 5px 15px;
+  cursor: pointer;
+}
